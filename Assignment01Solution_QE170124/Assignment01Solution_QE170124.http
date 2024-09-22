@@ -1,0 +1,6 @@
+@Assignment01Solution_QE170124_HostAddress = http://localhost:5014
+
+GET {{Assignment01Solution_QE170124_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

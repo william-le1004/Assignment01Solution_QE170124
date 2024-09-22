@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Assignment01Solution_QE170124", "Assignment01Solution_QE170124\Assignment01Solution_QE170124.csproj", "{87452530-8824-4D5D-AC75-7AF83642DCF4}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Web", "Web\Web.csproj", "{34C6DEA9-A603-41F3-BD98-4A6F372EF1F8}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{87452530-8824-4D5D-AC75-7AF83642DCF4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{87452530-8824-4D5D-AC75-7AF83642DCF4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{87452530-8824-4D5D-AC75-7AF83642DCF4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{87452530-8824-4D5D-AC75-7AF83642DCF4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{34C6DEA9-A603-41F3-BD98-4A6F372EF1F8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{34C6DEA9-A603-41F3-BD98-4A6F372EF1F8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{34C6DEA9-A603-41F3-BD98-4A6F372EF1F8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{34C6DEA9-A603-41F3-BD98-4A6F372EF1F8}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
